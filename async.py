@@ -1,4 +1,4 @@
-# example with parrallelision task require 3.7
+# example with parrallelision task require python 3.7
 import asyncio
 import time
 
