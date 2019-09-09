@@ -10,7 +10,7 @@ async def main():
     task1 = asyncio.create_task(slowDisplay(1, 'task 1'))
     task2 = asyncio.create_task(slowDisplay(2, 'task 2'))
 
-    print('Démarrage ', time.strftime('%X'))
+    print('Start ', time.strftime('%X'))
 
     await task1
     await task2

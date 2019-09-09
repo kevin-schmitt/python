@@ -1,2 +1,4 @@
-Various script with Python.
-You can open issue if you find a problem with script.
+#Snippetts for Python.
+
+#Contribute
+You can push PR or issue for improve this project if you have ideas ;)
